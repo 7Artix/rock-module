@@ -1,0 +1,8 @@
+**/gerbers/
+*fp-info-cache
+**/.kicad_prl
+*-backups/
+*-bak
+*step
+*.bak
+.DS_Store
